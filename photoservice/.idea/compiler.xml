@@ -9,5 +9,8 @@
         <module name="photoservice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="photoservice" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
